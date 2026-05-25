@@ -1,7 +1,7 @@
 """
 ai/llm.py
 ---------
-Calls Gemini (gemini-1.5-flash) with the retrieved context and user query.
+Calls Gemini (gemini-2.5-flash) with the retrieved context and user query.
 Supports both standard and streaming responses.
 """
 
